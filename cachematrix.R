@@ -4,7 +4,7 @@
 ## The first function will cache the inverse of a matrix x.
 ## It contains different functions used for the following:
 ## set : used in case we want to set a new matrix as x
-## get : to obtain the matrix x (this will be used in cacheSolve function)
+## get : to obtain the matrix x
 ## setinverse : cache the inverse of the matrix x
 ## getinverse : returns the value of the cache (inverse of matrix x)
 
